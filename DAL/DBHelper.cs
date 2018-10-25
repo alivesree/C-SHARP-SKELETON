@@ -13,7 +13,7 @@ namespace DAL
     {
         internal DataTable FillDataTable(DBCommand cmd)
         {
-            throw new NotImplementedException();
+            return null;
         }
     }
     public class DBCommand : IDisposable
